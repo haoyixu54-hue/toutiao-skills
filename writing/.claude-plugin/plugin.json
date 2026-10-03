@@ -1,0 +1,9 @@
+{
+  "name": "toutiao-writing",
+  "version": "1.0.0",
+  "description": "今日头条娱乐八卦爆文生成器 — 热点采集、人设注入、大纲构思、正文撰写、配图生成、查重校验全流程自动化",
+  "author": "Claude Code User",
+  "license": "MIT",
+  "keywords": ["writing", "toutiao", "entertainment", "chinese", "article"],
+  "skills": ["writing"]
+}

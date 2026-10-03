@@ -1,0 +1,6 @@
+output/article_data.json
+output/toutiao_article.json
+output/temp_images/
+__pycache__/
+*.pyc
+.DS_Store
